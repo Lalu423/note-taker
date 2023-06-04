@@ -27,8 +27,7 @@ This app is deployed using Heroku.
 <img src="https://github.com/Lalu423/note-taker/blob/main/public/assets/images/notes-sample.jpg" height="424" width="828"/>
 
 ## Contribution
-    This project was made possible with the help of Jili Jiang and Ramon Sanchez. 
-    They were my tutors during this project and provided a great deal of help. 
+    This app was made possible with the help of my instructors and tutors.  
 
 ## Test
     There is no current Test function.  
