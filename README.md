@@ -14,10 +14,15 @@
     Once finished users will see their note with the ability to delete each note individiually.   
 
 ## Installation
-- [Deployed-website]()
-- [Repo-link]()
+
+This app is deployed using Heroku. 
 
 ## Usage
+
+- [Deployed-website](https://notes1.herokuapp.com/)
+- [Repo-link](https://github.com/Lalu423/note-taker)
+
+### Sample Image
 
 <img src="https://github.com/Lalu423/note-taker/blob/main/public/assets/images/notes-sample.jpg" height="424" width="828"/>
 
