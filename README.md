@@ -19,7 +19,7 @@
 
 ## Usage
 
-<img src="https://github.com/Lalu423/note-taker/blob/main/public/assets/images/notes-sample.jpg" height="250" width="300"/>
+<img src="https://github.com/Lalu423/note-taker/blob/main/public/assets/images/notes-sample.jpg" height="250" width="750"/>
 
 ## Contribution
     This project was made possible with the help of Jili Jiang and Ramon Sanchez. 
